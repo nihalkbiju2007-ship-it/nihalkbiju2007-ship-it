@@ -67,8 +67,6 @@ I'm **[`Nihal K  Biju`](https://www.linkedin.com/in/nihal-k-biju-1b655b3a7?utm_s
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[FIX IT NOW ](https://github.com/nihalkbiju2007-ship-it/FIX-IT-NOW/blob/main/README.md)**    | A smart campus issue management and PG finder in one platform |
 
 ---
