@@ -3,7 +3,7 @@ I'm **[`Nihal K  Biju`](https://www.linkedin.com/in/nihal-k-biju-1b655b3a7?utm_s
 **"I am a B.Des Communication Design student passionate about visual storytelling, branding, and creative problem-solving. With an interest in graphic design, photography, and digital media, I create designs that communicate ideas effectively and engage audiences. My goal is to learn, innovate, and contribute to the world of design through meaningful and impactful visual communication."**
 
 
-<a href="https://linkedin.com/Nihal K  Biju"><img src="https://www.linkedin.com/in/nihal-k-biju-1b655b3a7?utm_source=share_via&utm_content=profile&utm_medium=member_android" /></a>
+<a href="https://www.linkedin.com/in/nihal-k-biju-1b655b3a7?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
